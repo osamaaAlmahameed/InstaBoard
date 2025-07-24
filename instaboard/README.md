@@ -16,7 +16,7 @@ A React application that displays user profile cards fetched from the RandomUser
 
 ## Assignment Questions
 1. **How many hours did it take you to complete this assignment?**
-   Approximately 10-12 hours, including setup, implementation, styling, and testing.
+   Approximately 5-6 hours, including setup, implementation, styling, and testing.
 
 2. **Were there any parts of the lab you found challenging?**
    - Implementing the search functionality while maintaining performance
